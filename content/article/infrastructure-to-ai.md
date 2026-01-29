@@ -15,16 +15,16 @@ My early years were spent in the trenches—literally underground data centers a
 This environment taught me fundamental lessons:
 
 - **Reliability is non-negotiable.** Systems must work, period. There's no "move fast and break things" when you're processing billions in transactions.
-- **Complexity requires discipline.** As infrastructure grew more complex, only rigorous processes, documentation, and change management kept chaos at bay.
+- **Complexity requires discipline.** As infrastructure grew more complex, only rigorous processes, documentation and change management kept chaos at bay.
 - **Security is foundational, not an afterthought.** In regulated environments, every system decision has security implications.
 
-These weren't abstract principles—they were daily realities enforced by incidents, audits, and regulatory reviews.
+These weren't abstract principles—they were daily realities enforced by incidents, audits and regulatory reviews.
 
 ## The Evolution: Security and Automation
 
 As I moved into cybersecurity and security platforms, the problems became more nuanced. It wasn't just about keeping systems running; it was about protecting them against sophisticated threats while enabling business velocity.
 
-This is where automation became critical. I wrote Python scripts to orchestrate security controls, built monitoring platforms that could process millions of events, and developed DevOps pipelines that brought security into the development lifecycle.
+This is where automation became critical. I wrote Python scripts to orchestrate security controls, built monitoring platforms that could process millions of events and developed DevOps pipelines that brought security into the development lifecycle.
 
 The patterns were familiar:
 - Define what "good" looks like (SLOs for reliability, security policies for protection)
@@ -38,7 +38,7 @@ I was essentially applying SRE principles to cybersecurity before I knew that's 
 
 When I transitioned to leading AI and GenAI strategy, colleagues asked if I was making a radical career pivot. I didn't see it that way.
 
-**AI platforms are infrastructure.** They require the same reliability, security, and governance discipline as any mission-critical system. The stakes might be higher—AI can make consequential decisions affecting customers, employees, and regulatory compliance—but the fundamental engineering principles remain constant.
+**AI platforms are infrastructure.** They require the same reliability, security and governance discipline as any mission-critical system. The stakes might be higher—AI can make consequential decisions affecting customers, employees and regulatory compliance—but the fundamental engineering principles remain constant.
 
 What I brought from two decades in infrastructure:
 
@@ -56,7 +56,7 @@ The difference between a proof-of-concept and a production system is immense. I'
 
 ## The Constant: Solving Hard Problems at Scale
 
-Across network engineering, security, and now AI, the underlying challenge is the same: **building systems that are reliable, secure, and compliant at global scale in highly regulated environments.**
+Across network engineering, security and now AI, the underlying challenge is the same: **building systems that are reliable, secure and compliant at global scale in highly regulated environments.**
 
 The technologies change. The protocols evolve. But the discipline required to operate critical infrastructure successfully remains constant.
 
@@ -66,7 +66,7 @@ If I could advise my younger self:
 
 **Deep technical skills compound.** Every layer of the stack I learned—from TCP/IP to Kubernetes to LLMs—builds on the previous. There are no wasted experiences.
 
-**Soft skills matter more than you think.** The hardest problems aren't technical; they're organizational. Getting legal, risk, compliance, and engineering aligned requires communication, empathy, and patience.
+**Soft skills matter more than you think.** The hardest problems aren't technical; they're organizational. Getting legal, risk, compliance and engineering aligned requires communication, empathy and patience.
 
 **Embrace the discomfort of change.** I've reinvented my role every few years, learning new domains and technologies. Each transition felt risky at the time but proved invaluable in retrospect.
 
@@ -74,9 +74,9 @@ If I could advise my younger self:
 
 ## Looking Forward
 
-We're in the early days of enterprise AI adoption. The field will evolve rapidly, and today's cutting-edge techniques will become tomorrow's infrastructure.
+We're in the early days of enterprise AI adoption. The field will evolve rapidly and today's cutting-edge techniques will become tomorrow's infrastructure.
 
-But I'm confident that the principles I've honed over 20 years—building reliable, secure, well-governed systems—will remain essential. The best AI systems won't just be the most capable; they'll be the most trustworthy, observable, and operationally excellent.
+But I'm confident that the principles I've honed over 20 years—building reliable, secure, well-governed systems—will remain essential. The best AI systems won't just be the most capable; they'll be the most trustworthy, observable and operationally excellent.
 
 That's where infrastructure expertise meets AI innovation. And that's where I'm betting my next 20 years.
 

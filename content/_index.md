@@ -6,6 +6,6 @@ draft: false
 
 # Patrick Lau
 
-**Vice President | AI Strategy & Technology Leadership**
+**Vice President | Automation & Technology Leadership**
 
-Leading firmwide Generative AI strategy, governance, and adoption for global financial institutions. 20+ years of experience spanning AI platforms, cybersecurity, and enterprise infrastructure.
+Leading firmwide Generative AI strategy, governance and adoption for global financial institutions. 20+ years of experience spanning automation, AI platforms, cybersecurity and enterprise infrastructure.

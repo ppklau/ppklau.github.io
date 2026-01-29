@@ -1,9 +1,9 @@
 baseURL = 'https://ppklau.github.io/'
 languageCode = 'en-us'
-title = 'Patrick Lau | AI & Technology Leadership'
+title = 'Patrick Lau | Automation & Techology Leadership'
 
 [params]
-  description = 'Vice President with 20+ years of experience in AI, cybersecurity, and enterprise platform delivery'
+  description = 'Vice President with 20+ years of experience in automation, AI, cybersecurity and enterprise platform delivery'
   author = 'Patrick Lau'
   email = 'ppklau@gmail.com'
   phone = '+44 (0) 7378286446'
@@ -24,8 +24,8 @@ title = 'Patrick Lau | AI & Technology Leadership'
     url = '/#experience'
     weight = 3
   [[menu.main]]
-    name = 'Blog'
-    url = '/blog/'
+    name = 'Article'
+    url = '/article/'
     weight = 4
   [[menu.main]]
     name = 'Contact'

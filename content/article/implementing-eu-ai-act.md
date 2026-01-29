@@ -18,7 +18,7 @@ The EU AI Act categorizes AI systems by risk level (unacceptable, high, limited,
 - Setting up ongoing monitoring and logging infrastructure
 - Creating governance frameworks that satisfy both regulators and business needs
 
-The challenge wasn't just technical—it was organizational. Legal, risk, compliance, data science, and engineering teams all needed to align on interpretations and implementations.
+The challenge wasn't just technical—it was organizational. Legal, risk, compliance, data science and engineering teams all needed to align on interpretations and implementations.
 
 ## Key Implementation Strategies
 
@@ -37,7 +37,7 @@ Our classification framework considered:
 The Act's technical requirements—transparency, accuracy, robustness, cybersecurity—needed translation into measurable controls. We developed:
 
 - **Model cards** with standardized documentation templates
-- **Evaluation frameworks** with quantitative metrics for fairness, accuracy, and robustness
+- **Evaluation frameworks** with quantitative metrics for fairness, accuracy and robustness
 - **Monitoring dashboards** tracking model performance drift and data quality
 - **Incident response procedures** for AI-specific failures
 
@@ -56,7 +56,7 @@ Rather than bolting compliance onto existing processes, we integrated it into th
 
 **Engage stakeholders continuously.** Legal teams need to understand technical constraints. Engineers need to appreciate regulatory nuances. Regular working groups bridge these gaps.
 
-**Build reusable patterns.** Every high-risk AI system will need similar documentation, controls, and monitoring. Standardize where possible while allowing customization where needed.
+**Build reusable patterns.** Every high-risk AI system will need similar documentation, controls and monitoring. Standardize where possible while allowing customization where needed.
 
 **Embrace the opportunity.** Yes, the EU AI Act adds complexity. But the discipline it imposes—rigorous testing, clear documentation, ongoing monitoring—makes AI systems better and more trustworthy.
 

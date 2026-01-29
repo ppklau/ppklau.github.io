@@ -24,15 +24,15 @@ I understand the appeal. In my early career building infrastructure, I sometimes
 
 **AI systems make decisions.** Those decisions affect people—employees, customers, applicants, borrowers. Once a biased model is deployed, once unfair outcomes occur, the damage is done. You can't patch away mistrust.
 
-And in regulated industries like financial services, the consequences extend beyond reputation. Regulatory violations can halt deployments, trigger investigations, and result in significant penalties.
+And in regulated industries like financial services, the consequences extend beyond reputation. Regulatory violations can halt deployments, trigger investigations and result in significant penalties.
 
 ## What Governance Actually Means
 
 When I talk about AI governance, I'm not talking about bureaucracy for its own sake. I'm talking about structured answers to fundamental questions:
 
 **Before Deployment:**
-- What problem does this AI system solve, and for whom?
-- What are the potential harms, and how do we mitigate them?
+- What problem does this AI system solve and for whom?
+- What are the potential harms and how do we mitigate them?
 - Is the training data representative and of sufficient quality?
 - How do we measure model performance—including fairness?
 - Who is accountable when things go wrong?
@@ -79,7 +79,7 @@ AI governance isn't a one-time review before deployment. It spans the entire mod
 - **Operations**: Performance tracking, drift detection, periodic re-evaluation
 - **Retirement**: Decommissioning plans, archival requirements
 
-Each phase needs clear ownership, defined deliverables, and quality gates.
+Each phase needs clear ownership, defined deliverables and quality gates.
 
 ### 3. **Responsible AI Principles**
 
@@ -101,8 +101,8 @@ These principles translate into concrete requirements. For instance:
 When regulators come calling—and they will—you need evidence of responsible development and operation.
 
 Key documentation includes:
-- Model purpose, intended use, and known limitations
-- Training data sources, quality checks, and known biases
+- Model purpose, intended use and known limitations
+- Training data sources, quality checks and known biases
 - Performance metrics across relevant populations
 - Approval records and risk assessments
 - Monitoring dashboards and incident logs
@@ -121,7 +121,7 @@ AI governance can't be owned by a single function. It requires:
 - **Business**: Use case validation and value realization
 - **Ethics**: Responsible AI principle interpretation
 
-The governance framework needs to bring these groups together with clear roles, decision rights, and escalation paths.
+The governance framework needs to bring these groups together with clear roles, decision rights and escalation paths.
 
 ## The Cost of Skipping Governance
 
@@ -137,7 +137,7 @@ I've seen it firsthand:
 
 **Operational Incidents:** A model degrades silently because no one implemented monitoring. By the time anyone notices, thousands of poor decisions have been made.
 
-**Rebuilding from Scratch:** The governance gaps are so fundamental that the only path forward is to decommission the model and rebuild with proper controls. All the initial "speed" is lost, and then some.
+**Rebuilding from Scratch:** The governance gaps are so fundamental that the only path forward is to decommission the model and rebuild with proper controls. All the initial "speed" is lost and then some.
 
 ## Getting Started: Pragmatic Steps
 
@@ -147,7 +147,7 @@ If your organization lacks AI governance, where do you start?
 Pick one AI use case—preferably moderate risk—and build governance around it. Document what works. Create templates. Then scale.
 
 **Assign Clear Ownership:**
-Someone needs to own AI governance. In my experience, this sits best as a collaboration between risk, compliance, and engineering, with executive sponsorship.
+Someone needs to own AI governance. In my experience, this sits best as a collaboration between risk, compliance and engineering, with executive sponsorship.
 
 **Define Your Risk Tiers:**
 Even a simple 3-tier system (low/medium/high risk) is better than nothing. Tier assignment drives proportional governance requirements.
@@ -169,7 +169,7 @@ Data scientists need to understand governance requirements. Risk teams need to u
 
 Here's the paradox: governance, done well, accelerates AI adoption.
 
-When legal, risk, and compliance have confidence in your controls, they say "yes" faster. When users understand how models work and see fairness metrics, they trust more readily. When regulators see proactive compliance, they engage constructively rather than punitively.
+When legal, risk and compliance have confidence in your controls, they say "yes" faster. When users understand how models work and see fairness metrics, they trust more readily. When regulators see proactive compliance, they engage constructively rather than punitively.
 
 Governance isn't about saying "no." It's about building systems that deserve "yes."
 
@@ -179,7 +179,7 @@ In my current role leading firmwide AI governance, I see this daily. The use cas
 
 As AI capabilities expand and regulatory frameworks mature, governance will only become more critical.
 
-Organizations that view governance as a burden will struggle. Those that see it as an enabler—a way to build AI systems that are trustworthy, compliant, and resilient—will scale successfully.
+Organizations that view governance as a burden will struggle. Those that see it as an enabler—a way to build AI systems that are trustworthy, compliant and resilient—will scale successfully.
 
 The question isn't whether to implement AI governance. It's whether you'll do it proactively, learning from others' experience, or reactively, after expensive mistakes.
 

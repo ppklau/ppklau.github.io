@@ -1,13 +1,12 @@
-baseURL = 'https://patricklau.dev/'
+baseURL = 'https://ppklau.github.io/'
 languageCode = 'en-us'
 title = 'Patrick Lau | AI & Automation Leadership'
-theme = ''
 
 [params]
-  description = 'Vice President with 20+ years of experience in Automation, AI, cybersecurity, and enterprise platform delivery'
+  description = 'Vice President with 20+ years of experience in AI, Autoamation, cybersecurity, and enterprise platform delivery'
   author = 'Patrick Lau'
   email = 'ppklau@gmail.com'
-  phone = '+44 7378286446'
+  phone = '+44 (0) 7378286446'
   linkedin = 'https://www.linkedin.com/in/patricklau001'
   location = 'London, United Kingdom'
 
@@ -25,7 +24,7 @@ theme = ''
     url = '/#experience'
     weight = 3
   [[menu.main]]
-    name = 'Articles'
+    name = 'Blog'
     url = '/blog/'
     weight = 4
   [[menu.main]]

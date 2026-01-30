@@ -1,7 +1,7 @@
 ---
 title: "The MLOps Maturity Gap: Why Most Organizations Struggle with Production AI"
 date: 2025-11-10
-draft: false
+draft: true
 tags: ["MLOps", "AI Operations", "Technology Strategy"]
 summary: "Most organizations can train models. Far fewer can deploy them reliably. Here's what separates successful AI operations from struggling ones."
 ---

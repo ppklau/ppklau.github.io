@@ -1,7 +1,7 @@
 ---
 title: "Implementing the EU AI Act: Lessons from the Frontlines"
 date: 2026-01-15
-draft: false
+draft: true
 tags: ["AI Governance", "Regulation", "EU AI Act"]
 summary: "Practical insights from translating EU AI Act requirements into actionable technical controls and operating processes for a global financial institution."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Building Trust in AI: Why Governance Isn't Optional"
 date: 2025-10-05
-draft: false
+draft: true
 tags: ["AI Governance", "Responsible AI", "Trust"]
 summary: "In the race to deploy AI, organizations that skip governance find themselves rebuilding from scratch. Here's why getting it right from the start matters."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "From Infrastructure to AI: Reflections on 20 Years in Tech"
 date: 2025-12-20
-draft: false
+draft: true
 tags: ["Career", "Technology Leadership", "AI"]
 summary: "How two decades of building critical infrastructure prepared me for leading AI strategy in regulated environments."
 ---

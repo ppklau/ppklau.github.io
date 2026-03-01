@@ -114,9 +114,13 @@ Stability and compliance remain essential. But they must be embedded into the ar
 
 ### 2. Design From the End State
 
+Instead of asking:
+
+> "What should the next incremental release look like?"
+
 High-performing organizations ask:
 
-> If we were building this institution today, what would it look like?
+> "If this business were built today, what would it look like?"
 
 That question reframes incremental upgrades into structural redesign.
 

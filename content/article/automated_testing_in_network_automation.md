@@ -3,7 +3,7 @@ title: "Automated Network Testing with Batfish: From Jupyter Exploration to CI P
 date: 2026-03-15
 draft: false
 tags: ["Network Automation", "Batfish", "Hands-On Learning", "NetDevOps", "Automated Testing"]
-summary: "Importance of automated testing in network automation and demostration of Batfish."
+summary: "Importance of automated testing in network automation and demonstration of Batfish."
 ---
 Network engineers spend a large portion of their time validating network changes.  
 We log into routers, check routing tables, run pings and trace routes to confirm everything works as expected.

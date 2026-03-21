@@ -24,7 +24,7 @@ title = 'Patrick Lau | Automation & Techology Leadership'
     url = '/#experience'
     weight = 3
   [[menu.main]]
-    name = 'Article'
+    name = 'Articles'
     url = '/article/'
     weight = 4
   [[menu.main]]

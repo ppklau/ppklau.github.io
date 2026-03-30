@@ -28,9 +28,13 @@ title = 'Patrick Lau | Automation & Techology Leadership'
     url = '/article/'
     weight = 4
   [[menu.main]]
+    name = 'Network Automation Handbook'
+    url = 'https://ppklau.github.io/network_automation_handbook/'
+    weight = 5
+  [[menu.main]]
     name = 'Contact'
     url = '/#contact'
-    weight = 5
+    weight = 6
 
 [outputs]
   home = ['HTML', 'RSS']
